@@ -18,3 +18,13 @@ Goals for project:
 • Analyze and interpret logistic regression for classification tasks
 
 • K-means cluster analysis for data segmentation
+
+Data Visualizations:
+
+Dendrogram using Z-score normalization, hierarchical clustering with single linkage 
+
+Dendrogram using Z-score normalization, hierarchical clustering with average linkage 
+
+Heatmap to shows you how similar the pharma companies are based on their normalized features
+
+
