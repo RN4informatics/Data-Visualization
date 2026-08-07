@@ -1,6 +1,7 @@
 # Data Visualization for an analyst’s exploration of financial data regarding the pharmaceutical industry
 
 Financial data gathered on 21 firms in the pharmaceutical industry are available in the file:
+
  “Pharmaceuticals.csv”
 
 From the textbook:  Shmueli, G., Bruce, P., Gedeck, P., & Patel, N. (2020). Data mining for business analytics. Wiley. https://doi.org
