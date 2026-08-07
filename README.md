@@ -11,6 +11,8 @@ For each firm, the following variables are recorded: Market capitalization (in b
 
 Use cluster analysis to explore and analyze the given dataset as follows: Use only the numerical variables (1–9) to cluster the 21 firms. Justify the various choices made in conducting the cluster analysis, such as weights for different variables, the specific clustering algorithm(s) used, the number of clusters formed, and so on. 
 
+---
+
 Goals for project:
 
 • Develop and interpret linear regression models
@@ -18,6 +20,8 @@ Goals for project:
 • Analyze and interpret logistic regression for classification tasks
 
 • K-means cluster analysis for data segmentation
+
+---
 
 Data Visualizations:
 
