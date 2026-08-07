@@ -29,6 +29,6 @@ Dendrogram using Z-score normalization, hierarchical clustering with single link
 
 Dendrogram using Z-score normalization, hierarchical clustering with average linkage 
 
-Heatmap to shows you how similar the pharma companies are based on their normalized features
+Heatmap to shows you how similar the pharmaceutical companies are based on their normalized features
 
 
