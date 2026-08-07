@@ -6,6 +6,8 @@ Financial data gathered on 21 firms in the pharmaceutical industry are available
 
 From the textbook:  Shmueli, G., Bruce, P., Gedeck, P., & Patel, N. (2020). Data mining for business analytics. Wiley. https://doi.org
 
+
+
 An equities analyst is studying the pharmaceutical industry and would like your help in exploring and understanding the financial data collected by her firm. Her main objective is to understand the structure of the pharmaceutical industry using some basic financial measures. 
 
 For each firm, the following variables are recorded: Market capitalization (in billions of dollars), Beta Price/earnings ratio, Return on equity, Return on assets, Asset turnover, Leverage, Estimated revenue growth, Net profit margin, Median recommendation (across major brokerages), Location of firm’s headquarters, Stock exchange on which the firm is listed 
